@@ -22,3 +22,7 @@ More to come!
 ## Questions?  Ideas?  Constructive Criticism?
 
 Check the AUTHORS.txt file and reach out to us!
+
+If you're interested in contributing, please fork the repo and submit your pull requests.  Thanks!
+
+-esp
