@@ -1,0 +1,6 @@
+Thanks to:
+* powuh for the original dronemon.pl this code is based on
+* rob @ irc.mzima.net for moving heaven and earth to help me get everything I needed to begin this project
+* beige for facilitating this re-write
+* raphidae for test data
+
